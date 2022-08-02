@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JustiETS2
+- 👀 I’m interested GameDev
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Game Engine
+- 📫 How to reach me rompng24@gmail.com
